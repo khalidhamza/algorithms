@@ -3,7 +3,7 @@
 start   = [9, 10, 11, 12, 13, 15]
 end     = [11, 11, 12, 14, 15, 16]
 
-result  = [0];
+result  = [0]
 i = 1;
 j = 0;
 while i < len(start):
